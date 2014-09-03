@@ -1,0 +1,9 @@
+{
+  "name": "totarakids-com",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "Instagram-PHP-API": "https://github.com/cosenary/Instagram-PHP-API.git",
+    "twitteroauth": "https://github.com/abraham/twitteroauth.git#~0.1.1"
+  }
+}
